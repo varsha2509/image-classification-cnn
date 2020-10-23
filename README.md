@@ -13,10 +13,8 @@ The following files and folders are included in this repository:
 
 **Final Report and Slides:**
 1) [Final Report](https://github.com/varsha2509/image-classification-cnn/blob/master/Docs/Capstone-2-Report.pdf) 
-
     Report containing details on the data wranngling, exploratory data analysis, CNN models and summary.
 2) [Slide Deck](https://github.com/varsha2509/image-classification-cnn/blob/master/Docs/Capstone2-Presentation.pdf)
-
     Powerpoint presentation with an overview of the project and findings.
 
 
