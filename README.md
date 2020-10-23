@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Images/Image2.png" alt="CNN-deepsat6"/>
+  <img src="Image2.png" alt="CNN-deepsat6"/>
 </p>
 
 
